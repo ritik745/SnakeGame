@@ -30,11 +30,6 @@ function gameOver(){
     alert("Game Over");
 }
 
- // arr [ 1,2,3] --> [0,1,2,3] unshift
- //arr [1,2,3] --> [1,2,3,4] push()
-
-
-
 
 function renderGame(){
     console.log("Rendered ");
